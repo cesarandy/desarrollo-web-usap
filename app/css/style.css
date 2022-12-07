@@ -1,0 +1,19 @@
+#deletespace{
+    padding: 0px;
+    float: left;
+   
+  }
+  body{
+    background-color: gainsboro;
+  }
+
+  #firstposition{
+    position: absolute;
+    z-index: 2;
+    margin-top: 0px;
+  }
+  nav{
+    height: 100px;
+  }
+
+
