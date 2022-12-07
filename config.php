@@ -10,5 +10,5 @@
         echo $mysqli->connect_error;
     }
 
-    $urlweb="http://localhost/proyecto_web/"
+    $urlweb="https://skynetstore2022.000webhostapp.com/"
 ?>
