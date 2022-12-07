@@ -13,7 +13,7 @@
 
             
 
-
+         <div class="navbar-fixed">
         <nav >
         <div class="nav-wrapper #eceff1 blue-grey lighten-5 " class="col 12">
           <a href="#" data-target="mobile-nav" class="sidenav-trigger">
@@ -31,6 +31,7 @@
           </ul>
         </div>  
     </nav>
+    </div>
     <ul class="sidenav" id="mobile-nav" class="#eceff1 blue-grey lighten-5">
       <li><a href="?modulo=inicio">Inicio</a></li>
       <li><a href="?modulo=todosproductos">Productos</a></li>
